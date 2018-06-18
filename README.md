@@ -2,7 +2,7 @@
               therefore a queue must be made to wait until an open processor.
               
               
-### **Run the program:** :shipit:
+### **Run the program:** 
 
 Firstly, download all the files in this repository, by pasting this in the terminal or cmd 
 
