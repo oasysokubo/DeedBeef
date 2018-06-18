@@ -1,12 +1,3 @@
-
-// Oasys Okubo
-// ookubo
-// 12B
-// 2/20/18
-// Simulation.java
-// Takes in file of jobs and outputs data to trace file and report file.
-
-
 import java.io.*;
 import java.text.DecimalFormat;
 import java.util.Scanner;

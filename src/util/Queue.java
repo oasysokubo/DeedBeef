@@ -1,10 +1,3 @@
-// Oasys Okubo
-// ookubo
-// 12B
-// 2/20/18
-// Queue.java
-// A queue implementation of a linkedlist 
-
 public class Queue implements QueueInterface {
 	
 	// private Node class
