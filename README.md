@@ -17,7 +17,7 @@ Then, type in the following,
 | ----------------------- |
 
 into the command line argument, where the input_file will be found in the 'in' files.
-Output should be named as 'x.rpt' and 'ex.trc' corrosponding to which test file was used.
+Output should be named as 'ex.rpt' and 'ex.trc' corrosponding to which test file was used.
 
 
 This program can be thought out as some shoppers at a grocery store waiting in line at the check-out stands.
