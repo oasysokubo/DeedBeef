@@ -5,6 +5,7 @@
 ### **Run the program:** ###
 
 Firstly, download all the files in this repository, by pasting this in the terminal or cmd 
+
 | git clone https://github.com/oasysokubo/jobber.git |
 | -------------------------------------------------- |
 
