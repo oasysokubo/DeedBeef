@@ -2,7 +2,7 @@
               therefore a queue must be made to wait until an open processor.
               
               
-**Run the program:**
+### **Run the program:** ###
 
 Firstly, download all the files in this repository, by pasting this in the terminal or cmd (git clone 
 https://github.com/oasysokubo/jobber.git). After downloaded, put all files into one directory file including the Makefile,
@@ -10,8 +10,8 @@ Program will not be able to run without all the files being in the same director
 Then, type in the following, 
 | $ Simulation input_file |
 into the command line argument, where the input_file will be found in the 'in' files.
-
 Output should be named as 'x.rpt' and 'ex.trc' corrosponding to which test file was used.
+
 
 This program can be thought out as some shoppers at a grocery store waiting in line at the check-out stands.
 Abstractly, a job is an encapsulation of three quantities: arrival time, duration, and finish time. The arrival time
