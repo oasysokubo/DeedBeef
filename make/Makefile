@@ -1,11 +1,3 @@
-# Oasys Okubo
-# ookubo
-# 12B
-# 2/20/18
-# This is a Makefile with macros creates and archives both .class files from
-# the java programs into a JARFILE called Simulation. 
-# Makefile
-
 JAVAC      = javac 
 MAINCLASS  = Simulation
 JAVASRC    = $(wildcard *.java)
