@@ -1,8 +1,8 @@
-**jobber** - A simulation of jobs performed by a set of processors, where there might be more jobs than processors 
+**jobber** :bento:- A simulation of jobs performed by a set of processors, where there might be more jobs than processors 
               therefore a queue must be made to wait until an open processor.
               
               
-### **Run the program:** ### :shipit:
+### **Run the program:** :shipit:
 
 Firstly, download all the files in this repository, by pasting this in the terminal or cmd 
 
@@ -30,5 +30,4 @@ time, whereas the finish time is only known when the job reaches the head of a p
 calculated as start_time + duration. Before a job is underway its finish time will be considered undefined. Once a given job’s 
 finish time is known, we can calculate the amount of time spent waiting in line, not counting processing time. Thus wait_time 
 = finish_time – arrival_time – duration. In this simulation time will be considered a discrete quantity starting at 0 and 
-assuming only non- negative integer values.
-
+assuming only non- negative integer values. :+1:
