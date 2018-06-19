@@ -9,14 +9,15 @@ Firstly, download all the files in this repository, by pasting this in the termi
 | $ git clone https://github.com/oasysokubo/jobber.git |
 | ---------------------------------------------------- |
 
-After downloaded, put all files into one directory file including the Makefile,
+After downloaded, put all files into one directory file including the Makefile.
+
 Program will not be able to run without all the files being in the same directory. 
 Then, type in the following, 
 
 | $ Simulation input_file |
 | ----------------------- |
 
-into the command line argument, where the input_file will be found in the 'in' files.
+into the command line argument, where input_file can be found in the 'in' files and use any.
 Output should be named as 'ex.rpt' and 'ex.trc' corrosponding to which test file was used.
 
 
