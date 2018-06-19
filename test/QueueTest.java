@@ -1,10 +1,3 @@
-// Oasys Okubo
-// ookubo
-// 12B
-// 2/20/18
-// QueueTest.java
-// Testing class for Queue.java
-
 public class QueueTest {
 
 	public static void main(String[] args) {
