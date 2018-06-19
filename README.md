@@ -11,7 +11,7 @@ or cmd
 | $ git clone https://github.com/oasysokubo/jobber.git |
 | ---------------------------------------------------- |
 
-After downloaded, put all files into one directory file including the Makefile.
+After downloaded, put all java files into one directory file including the Makefile.
 
 Program will not be able to run without all the files being in the same directory.
 
