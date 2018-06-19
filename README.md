@@ -13,8 +13,16 @@ or cmd
 
 After downloaded, put all files into one directory file including the Makefile.
 
-Program will not be able to run without all the files being in the same directory. 
-Then, type in the following, 
+Program will not be able to run without all the files being in the same directory.
+
+Now proceeding to compiling the program, you will need to use the included Makefile.
+In terminal, type:
+
+| $ make |
+| ------ |
+
+which will then compile the java classes and create .class and .jar files. From there to run
+the program, type in the following, 
 
 | $ Simulation input_file |
 | ----------------------- |
